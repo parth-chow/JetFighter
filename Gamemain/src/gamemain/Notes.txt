@@ -1,0 +1,2 @@
+If the game screen remains white after running the code, then close 
+the window and run again. It should work fine then.
